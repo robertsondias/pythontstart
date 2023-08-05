@@ -7,4 +7,4 @@ for i in [5,9,6]:
         print("O número "+ str(numero) + " é par")
     else:
         print("O número "+ str(numero) + " é impar")
-    print("O valor de i é:     ",i)
+    print("O valor de i atual é:     ",i)
