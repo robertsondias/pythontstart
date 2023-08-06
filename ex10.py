@@ -14,7 +14,7 @@ imposto = 0.1
 
 while True:
     valor_item = input("Digite o valor do produto ou pressione S para sair ")
-    if valor_item == 'S':
+    if valor_item == ('s') or ('S'):
         break
     total = total + float(valor_item)
     
